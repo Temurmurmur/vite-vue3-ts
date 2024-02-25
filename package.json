@@ -10,7 +10,10 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.16.9",
+    "@vkid/sdk": "^1.1.0",
+    "@vkontakte/superappkit": "^1.61.2",
     "axios": "^1.6.7",
+    "dotenv": "^16.4.5",
     "quasar": "^2.14.3",
     "vue": "^3.4.15",
     "vue-router": "^4.2.5"
